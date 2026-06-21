@@ -1,4 +1,4 @@
-// ----------------------------------------------------------------------------- 
+// -----------------------------------------------------------------------------
 // Program Name : Generic Replace Element Program 
 // Description  : This program demonstrates the use of a generic (template)
 //                function in C++ to replace all occurrences of a given value
