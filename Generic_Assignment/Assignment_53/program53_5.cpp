@@ -5,7 +5,7 @@
 //                in an array with a new value. The function works for
 //                different data types such as int and float and returns
 //                the count of replaced elements.
-// Author       : Vivek Bhauraj Gautam
+// Author       : Vivek Bhauraj Gautam 
 // Date         : 12-01-2026 
 // -----------------------------------------------------------------------------
 
