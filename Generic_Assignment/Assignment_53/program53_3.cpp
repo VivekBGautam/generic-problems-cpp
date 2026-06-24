@@ -1,4 +1,4 @@
-// Q 3. Write a generic program to Find second largest element from array 
+// Q 3. Write a generic program to Find second largest element from array
 
 #include<iostream>
 using namespace std;
